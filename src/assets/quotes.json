@@ -5,15 +5,19 @@
 	},
 	{
 		"name":"Ron Weasley",
+		"quote":"Hearing voices no one else can hear isn’t a good sign, even in the wizarding world."
+	},
+	{
+		"name":"Ron Weasley",
 		"quote":"Don’t let the muggles get you down."
+	},
+	{
+		"name":"Fred Weasley",
+		"quote":"He can run faster than Severus Snape confronted with shampoo."
 	},
 	{
 		"name":"Cornelius Fudge",
 		"quote":"Why, dear boy, we don’t send wizards to Azkaban just for blowing up their aunts."
-	},
-	{
-		"name":"Harry Potter",
-		"quote":"Mischief Managed!"
 	},
 	{
 		"name":"Albus Dumbledore",
@@ -32,11 +36,55 @@
 		"quote":"Of course it is happening inside your head, Harry, but why should that mean that it is not real?"
 	},
 	{
+		"name":"Albus Dumbledore",
+		"quote":"It does not do to dwell on dreams and forget to live."
+	},
+	{
+		"name":"Albus Dumbledore",
+		"quote":"Help will always be given at Hogwarts to those who ask for it."
+	},
+	{
+		"name":"Luna Lovegood",
+		"quote":"Don’t worry. You’re just as sane as I am."
+	},
+	{
+		"name":"Luna Lovegood",
+		"quote":"Which came first, the phoenix or the flame? I think the answer is that a circle has no beginning."
+	},
+	{
 		"name":"Hermione Granger",
 		"quote":"I mean, it's sort of exciting, isn't it, breaking the rules?"
 	},
 	{
+		"name":"George Weasley",
+		"quote":"I solemnly swear that I am up to no good."
+	},
+	{
+		"name":"Albus Dumbledore",
+		"quote":"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."
+	},
+	{
+		"name":"Albus Dumbledore",
+		"quote":"It takes a great deal of bravery to stand up to your enemies, but a great deal more to stand up to your friends."
+	},
+	{
+		"name":"Albus Dumbledore",
+		"quote":"Oh, to be young and to feel love's keen sting."
+	},
+	{
+		"name":"Albus Dumbledore",
+		"quote":"Soon we must all face the choice between what is right and what is easy."
+	},
+	{
+		"name":"Albus Dumbledore",
+		"quote":"It is not our abilities that show what we truly are. It is our choices."
+	},
+	{
+		"name":"Dolores Umbridge",
+		"quote":"I must not tell lies."
+	},
+	{
 		"name":"Harry Potter",
-		"quote":"I solemnly swear I am up to no good."
+		"quote":"I’ll be in my bedroom, making no noise and pretending I don't exist."
 	}
 ]
